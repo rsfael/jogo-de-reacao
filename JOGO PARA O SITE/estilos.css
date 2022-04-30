@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(48, 58, 190);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{color: white;}
+h2{color: rgb(255, 216, 116);}
+h3{color: rgb(152, 149, 149);}
+h4{color: rgb(169, 108, 47);}
+
+img {
+    pointer-events: none;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.butao {
+    font-size: 50px;
+    color: white;
+}
+
+.insultos {
+    position: absolute;
+}
+
+.insultos-texto {
+    font-size: 30px;
+    color: orange;
+    margin: 10px;
+}
+
+
+.highscore{
+    position: absolute;
+    justify-content: right;
+    right: 15px;
+
+}
+
+.links {
+    color: #e21385;
+    font-weight: bolder;
+}
+
+
+[oculta]{
+    display: none;
+}
+
